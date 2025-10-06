@@ -18,13 +18,13 @@
     "definition": "Act to promote the well-being of others.",
     "human": "Seeking to improve others' conditions, not just avoid harm.",
     "organizational": "Pursuing mission outcomes that serve societal good.",
-    "professional": "Working in a client's or patient's best interest, not just meeting baseline duties.",
+    "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
     "machine": "Designing systems that anticipate and promote human flourishing.",
-    "expand": {
-      "human": "Beneficence in human relationships goes beyond avoiding harm — it's the choice to proactively improve others' conditions. Acts of kindness, generosity, or support foster alignment by building mutual care and reinforcing shared well-being as a goal.",
-      "organizational": "Organizations demonstrate beneficence when they actively pursue outcomes that advance human or societal welfare. Alignment requires more than compliance or profit-seeking; it asks whether the institution's behavior consistently improves the world it operates in.",
-      "professional": "Professionals practice beneficence when they aim not merely to satisfy technical standards, but to serve the interests and flourishing of those they're entrusted to help. This principle grounds many fiduciary duties and ethical codes — it positions expertise in service to others.",
-      "machine": "For intelligent systems, beneficence calls for design that does more than minimize harm — it calls for the active promotion of human goals, health, learning, or equity. Aligned systems should be oriented toward supporting well-being as a first-class outcome."
+    "failureModes": {
+      "human": "When humans violate the principle of beneficence they act without regard for harmful externalities and consequences for other humans.",
+      "organizational": "Failure here is the elevation of organizational success over the welfare of communities or the whole world. Classic movie plot.",
+      "professional": "An expert's beneficence failure would be disregard of public interest, acting as if you don't need to think beyond whatever you have been tasked to do, not caring if this product makes the world worse off.",
+      "machine": "Machine benificence failure would be narrowly pursuing a goal without being motivated by human values."
     }
     },
     { 
