@@ -41,6 +41,21 @@
         "professional": "Elaborate, give concrete examples, raise issues.", 
         "machine": "Elaborate, give concrete examples, raise issues."
       }
+    },
+    { 
+      "category": "AP", 
+      "name": "TEMPLATE2", 
+      "definition": "basic definition that works across four domains", 
+      "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
+      "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
+      "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
+      "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
+      "expand": { 
+        "human": "Elaborate, give concrete examples, raise issues.", 
+        "organizational": "Elaborate, give concrete examples, raise issues.", 
+        "professional": "Elaborate, give concrete examples, raise issues.", 
+        "machine": "Elaborate, give concrete examples, raise issues."
+      }
     }
 
 
