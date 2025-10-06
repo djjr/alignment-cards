@@ -29,7 +29,7 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE1", 
+      "name": "TEMPLATE 1", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
@@ -44,7 +44,7 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE2", 
+      "name": "TEMPLATE 2", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
@@ -59,7 +59,7 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE3", 
+      "name": "TEMPLATE 3", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
@@ -74,7 +74,7 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE4", 
+      "name": "TEMPLATE 4", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
@@ -89,7 +89,7 @@
     },
     { 
       "category": "AP", 
-      "name": "TEMPLATE5", 
+      "name": "TEMPLATE 5", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
