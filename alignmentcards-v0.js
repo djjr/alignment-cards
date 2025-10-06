@@ -21,10 +21,10 @@
     "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
     "machine": "Designing systems that anticipate and promote human flourishing.",
     "failureModes": {
-      "human": "When humans violate the principle of beneficence they act without regard for harmful externalities and consequences for other humans.",
-      "organizational": "Failure here is the elevation of organizational success over the welfare of communities or the whole world. Classic movie plot.",
-      "professional": "An expert's beneficence failure would be disregard of public interest, acting as if you don't need to think beyond whatever you have been tasked to do, not caring if this product makes the world worse off.",
-      "machine": "Machine benificence failure would be narrowly pursuing a goal without being motivated by human values."
+      "human": "A person drives in a manner that causes traffic backups for others.",
+      "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company.",
+      "professional": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
+      "machine": "The machine consumes all the world's resources to create as many paperclips as it can."
     }
     },
     { 
@@ -35,7 +35,7 @@
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
       "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
       "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-      "expand": { 
+      "failureModes": { 
         "human": "Elaborate, give concrete examples, raise issues.", 
         "organizational": "Elaborate, give concrete examples, raise issues.", 
         "professional": "Elaborate, give concrete examples, raise issues.", 
@@ -50,7 +50,7 @@
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
       "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
       "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
-      "expand": { 
+      "failureModes": { 
         "human": "Elaborate, give concrete examples, raise issues.", 
         "organizational": "Elaborate, give concrete examples, raise issues.", 
         "professional": "Elaborate, give concrete examples, raise issues.", 
