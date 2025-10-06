@@ -29,7 +29,7 @@
     },
     { 
       "category": "AP", 
-      "name": "", 
+      "name": "TEMPLATE", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
       "organizational": "BRIEFLY: how does it manifest in the organizational intelligence alignment context?", 
