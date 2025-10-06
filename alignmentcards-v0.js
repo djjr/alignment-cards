@@ -36,10 +36,10 @@
       "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
       "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
       "failureModes": { 
-        "human": "Elaborate, give concrete examples, raise issues.", 
-        "organizational": "Elaborate, give concrete examples, raise issues.", 
-        "professional": "Elaborate, give concrete examples, raise issues.", 
-        "machine": "Elaborate, give concrete examples, raise issues."
+        "human": "Give concrete example(s).", 
+        "organizational": "Give concrete example(s).", 
+        "professional": "Give concrete example(s).", 
+        "machine": "Give concrete example(s)."
       }
     },
     { 
@@ -51,10 +51,10 @@
       "professional": "BRIEFLY: how does it manifest in the expert intelligence alignment context?", 
       "machine": "BRIEFLY: how does it manifest in the machine intelligence alignment context?", 
       "failureModes": { 
-        "human": "Elaborate, give concrete examples, raise issues.", 
-        "organizational": "Elaborate, give concrete examples, raise issues.", 
-        "professional": "Elaborate, give concrete examples, raise issues.", 
-        "machine": "Elaborate, give concrete examples, raise issues."
+        "human": "Give concrete example(s).", 
+        "organizational": "Give concrete example(s).", 
+        "professional": "Give concrete example(s).", 
+        "machine": "Give concrete example(s)."
       }
     }
 
