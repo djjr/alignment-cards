@@ -1,4 +1,4 @@
-const categories = [
+ export const categories = [
 
   {
     "code": "AP", 
@@ -10,7 +10,7 @@ const categories = [
 ];
 
 
-const cards = [
+ export const cards = [
 
   {
     "category": "AP",
