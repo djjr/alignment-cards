@@ -177,7 +177,4 @@
     "machine": "An AI trained to follow ‘ethical guidelines’ optimizes for engagement instead."
   }
 }
-
-
-
 ]
