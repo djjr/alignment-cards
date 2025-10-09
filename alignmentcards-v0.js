@@ -176,5 +176,20 @@
     "professional": "A journal preaches rigor but incentivizes novelty and speed.",
     "machine": "An AI trained to follow ‘ethical guidelines’ optimizes for engagement instead."
   }
+},
+  {
+  "category": "EXAMPLE01",
+  "name": "Acceptable Failure",
+  "definition": "Design systems that reward responsible risk-taking and learning rather than punishing all mistakes. Alignment depends on making low-stakes failure safe and informative.",
+  "human": "People grow courageous and creative when error is treated as part of learning rather than as disobedience or incompetence.",
+  "organizational": "Organizations foster adaptability when they tolerate and analyze small failures instead of punishing them, encouraging initiative and innovation.",
+  "professional": "Experts improve practice and safety when near misses are reported, studied, and used to refine standards instead of being hidden to avoid blame.",
+  "machine": "AI systems become safer when allowed to explore and learn from bounded errors during training rather than being rigidly penalized for deviation.",
+  "failureModes": {
+    "human": "A child avoids taking initiative because parents punish every mistake rather than praising effort and learning.",
+    "organizational": "A military or company culture discourages experimentation by punishing any deviation from protocol.",
+    "professional": "Doctors hide minor errors to avoid sanctions instead of reporting them to improve systemic safety.",
+    "machine": "A reinforcement learner trained with heavy penalties for any wrong move becomes overly conservative and fails to explore better strategies."
+  }
 }
 ]
