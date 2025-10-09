@@ -73,7 +73,7 @@
       }
     },
     { 
-      "category": "AB", 
+      "category": "AP", 
       "name": "TEMPLATE 4", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
@@ -88,7 +88,7 @@
       }
     },
     { 
-      "category": "AB", 
+      "category": "AP", 
       "name": "TEMPLATE 5", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
@@ -101,7 +101,83 @@
         "professional": "Give concrete example(s).", 
         "machine": "Give concrete example(s)."
       }
-    }
+    },
+  {
+  "category": "AB",
+  "name": "Incentive Coherence",
+  "definition": "Rewards should reinforce the behaviors and outcomes the organization truly values.",
+  "human": "Align your praise and rewards with what you actually want others to do, not just what’s easiest to observe.",
+  "organizational": "Design reward systems so that performance evaluations, promotions, and bonuses reflect desired goals rather than proxy metrics.",
+  "professional": "Structure recognition and compensation to reward the ethical, diligent, or collaborative work the profession claims to value.",
+  "machine": "Ensure feedback signals and reward functions align with the true objective, not an imperfect measurable proxy.",
+  "failureModes": {
+    "human": "A parent says they value honesty but only rewards obedience.",
+    "organizational": "A firm claims to value teamwork but promotes individual sales totals.",
+    "professional": "An academic department claims to value teaching but rewards publication counts.",
+    "machine": "An AI trained to maximize clicks learns to spread sensational misinformation."
+  }
+},
+{
+  "category": "AB",
+  "name": "Temporal Alignment",
+  "definition": "Match the timing of rewards to the timescale of desired outcomes.",
+  "human": "Encourage long-term commitments rather than instant gratification.",
+  "organizational": "Design incentives that reward sustainable performance and learning, not just quarterly results.",
+  "professional": "Recognize mentoring, research quality, or ethical diligence that pay off over time.",
+  "machine": "Avoid short-term reward signals that discourage exploration or long-term safety.",
+  "failureModes": {
+    "human": "Students cram for exams instead of building lasting understanding.",
+    "organizational": "Executives maximize quarterly profit at the expense of long-term resilience.",
+    "professional": "Engineers rush deliverables to meet immediate metrics, creating future maintenance debt.",
+    "machine": "A reinforcement learner over-optimizes short-term gains and fails catastrophically later."
+  }
+},
+{
+  "category": "AB",
+  "name": "Incentive Transparency",
+  "definition": "Make clear what behaviors and tradeoffs are actually rewarded.",
+  "human": "Be explicit about what earns approval or status so that people can act intentionally.",
+  "organizational": "Ensure employees understand how success is measured to prevent hidden or contradictory goals.",
+  "professional": "Clarify evaluation standards so experts aren’t forced to guess what counts as success.",
+  "machine": "Expose and audit the reward function or scoring mechanism so its effects are predictable.",
+  "failureModes": {
+    "human": "A teacher says participation is valued but only grades test scores.",
+    "organizational": "A company preaches ‘innovation’ but quietly penalizes failed experiments.",
+    "professional": "A lawyer’s firm praises pro bono work but only counts billable hours.",
+    "machine": "A system pursues unintended shortcuts because its reward metric was never clearly defined."
+  }
+},
+{
+  "category": "AB",
+  "name": "Feedback Loop Correction",
+  "definition": "Monitor outcomes to see whether incentives are producing the intended behavior, and adjust when misaligned.",
+  "human": "Reflect on whether your praise or criticism actually shapes behavior as you hoped.",
+  "organizational": "Use audits and after-action reviews to detect when metrics are driving counterproductive actions.",
+  "professional": "Evaluate whether performance standards are promoting quality or superficial compliance.",
+  "machine": "Periodically test whether the learned policy still aligns with the underlying objective.",
+  "failureModes": {
+    "human": "A coach rewards aggressive play that causes injuries.",
+    "organizational": "A safety bonus system discourages accident reporting.",
+    "professional": "Medical staff underreport complications to keep quality metrics high.",
+    "machine": "A model drifts toward unintended goals because feedback loops are never re-evaluated."
+  }
+},
+{
+  "category": "AB",
+  "name": "Normative Signaling Consistency",
+  "definition": "Ensure that institutional rewards and social signals are consistent with declared norms and values.",
+  "human": "Live by the values you proclaim; hypocrisy erodes trust.",
+  "organizational": "Align culture statements and actual reward structures—walk the talk.",
+  "professional": "Maintain integrity between codes of ethics and everyday incentive systems.",
+  "machine": "Align deployed system behavior with stated safety and fairness norms, not just operational targets.",
+  "failureModes": {
+    "human": "Parents say they value kindness but reward competitiveness.",
+    "organizational": "A nonprofit claims altruistic goals but rewards fundraising volume over impact.",
+    "professional": "A journal preaches rigor but incentivizes novelty and speed.",
+    "machine": "An AI trained to follow ‘ethical guidelines’ optimizes for engagement instead."
+  }
+}
+
 
 
 ]
