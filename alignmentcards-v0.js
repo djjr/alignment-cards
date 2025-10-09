@@ -73,7 +73,7 @@
       }
     },
     { 
-      "category": "AP", 
+      "category": "AB", 
       "name": "TEMPLATE 4", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
@@ -88,7 +88,7 @@
       }
     },
     { 
-      "category": "AP", 
+      "category": "AB", 
       "name": "TEMPLATE 5", 
       "definition": "basic definition that works across four domains", 
       "human": "BRIEFLY: how does it manifest in the human intelligence alignment context?", 
