@@ -38,7 +38,7 @@
       "failureModes": { 
         //"human": "Give concrete example(s).", 
         //"organizational": "Give concrete example(s).", 
-        "professional": "Give concrete example(s).", 
+        "professional": "Give soft example(s).", 
         "machine": "Give concrete example(s)."
       }
     },
