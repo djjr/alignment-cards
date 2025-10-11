@@ -17,6 +17,7 @@
     "name": "Beneficencexxx",
     "definition": "Act to promote the well-being of others.",
     "human": "Seeking to improve others' conditions, not just avoid harm.",
+    "humanref": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
     "organizational": "Pursuing mission outcomes that serve societal good.",
     "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
     "machine": "Designing systems that anticipate and promote human flourishing.",
