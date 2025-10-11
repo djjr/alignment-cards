@@ -6,6 +6,20 @@ export const categories = [
     "pathology": "normative void", 
     "color": "#E6FFE9",
     "description": "Alignment principles are contestable, general-purpose, broadly recognized ethical or social or normative commitments that can serve as warrants for recommending or evaluating an agent's course of action in contexts where alignment and cooperation with others matters."
+  },
+    {
+    "code": "AB", 
+    "name": "Alberta Principles", 
+    "pathology": "very very cold in January", 
+    "color": "#E6FFE9",
+    "description": "Just a nonsense entry in this test file."
+  },
+    {
+    "code": "XX", 
+    "name": "Nonexistant Category", 
+    "pathology": "missing in action", 
+    "color": "#E6FFE9",
+    "description": "This one should display nothing since there are no cards with this category"
   }
 ];
 
