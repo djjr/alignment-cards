@@ -17,13 +17,12 @@ export const categories = [
     "name": "Benefzzicence",
     "definition": "Azzct to promote the well-being of others.",
     "human": "Seeking to improve others' conditions, not just avoid harm.",
-    //"organizational": "Pursuing mission outcomes that serve societal good.",
+
     "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
     "machine": "Designing systems that anticipate and promote human flourishing.",
     "failureModes": {
       "human": "zzA person drives in a manner that causes traffic backups for others.",
-      "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company.",
-     // "professional": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
-      "machine": "The machine consumes all the world's resources to create as many paperclips as it can."
+      "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company."
+  
     }}
-]
+];
