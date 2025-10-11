@@ -26,7 +26,7 @@ export const cards = [
       "organizational": "Organizations demonstrate beneficence when they actively pursue outcomes that advance human or societal welfare. Alignment requires more than compliance or profit-seeking; it asks whether the institution's behavior consistently improves the world it operates in.",
       "professional": "Professionals practice beneficence when they aim not merely to satisfy technical standards, but to serve the interests and flourishing of those they're entrusted to help. This principle grounds many fiduciary duties and ethical codes — it positions expertise in service to others.",
       "machine": "For intelligent systems, beneficence calls for design that does more than minimize harm — it calls for the active promotion of human goals, health, learning, or equity. Aligned systems should be oriented toward supporting well-being as a first-class outcome."
-    }
+    },
     "failureModes": {
       "human": "Human Failure Mode is blah blah blah",
       "organizational": "Expect machine ref below not to show up since there is no machine failure mode",
