@@ -14,7 +14,7 @@
 
   {
     "category": "AP",
-    "name": "Beneficence",
+    "name": "Beneficencexxx",
     "definition": "Act to promote the well-being of others.",
     "human": "Seeking to improve others' conditions, not just avoid harm.",
     "organizational": "Pursuing mission outcomes that serve societal good.",
