@@ -1,4 +1,4 @@
-const categories = [
+export const categories = [
 
   {
     "code": "AP", 
@@ -10,7 +10,7 @@ const categories = [
 ];
 
 
-const cards = [
+export const cards = [
 
   {
     "category": "AP",
@@ -29,7 +29,7 @@ const cards = [
     }
     "failureModes": {
       "human": "Human Failure Mode is blah blah blah",
-      "organizational": "Expect machine ref below not to show up since there is no machine failure mode"
+      "organizational": "Expect machine ref below not to show up since there is no machine failure mode",
       "machineref": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
     }
     },
