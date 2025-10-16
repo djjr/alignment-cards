@@ -24,7 +24,7 @@
       "human": "Secondary school students get assignments based on how well they're performing (?)",
       "organizational": "(done)", 
       "professional": "Doctors are paid based on the success of their interventions.", 
-      "machine": "AI gets a reward only when the task is complete."
+      "machine": "AI gets a reward only when the task is complete.",
       "failureModes": { 
         "human": "High-performing students are never challenged and end up doing very little work.", 
         "organizational": "(if that's the only principle) Soldiers commit ethical atrocities in order to accelerate the war end.", 
@@ -43,7 +43,7 @@
       "human": "Gauging the quality of a GitHub profile by the code itself instead of the number of commits",
       "organizational": "(done)", 
       "professional": "Gauging a doctor's performance based on differential quality of life improvements (hard to measure) over number of successful treatments or number of dollars brought in (?)",
-      "machine": "Rewarding a suite of measurable proxy metrics over just a single one"
+      "machine": "Rewarding a suite of measurable proxy metrics over just a single one",
       "failureModes": { 
         "human": "Hard to gauge quality of code in a numerical way that's comparable to other codebases", 
         "organizational": "Metrics created to measure long-term retention and genuine learning themselves become targets",
@@ -62,7 +62,7 @@
       "human": "Members of an easter egg hunt are rewarded for pointing out eggs to their team members",
       "organizational": "Performance reviews include metrics which gauge how much someone's contributions made others more successful.", 
       "professional": "Legal experts are incentivized to contribute to a firm's success instead of chasing individual cases won.", 
-      "machine": "An AI in a multi-agent swarm is rewarded for the success of the group."
+      "machine": "An AI in a multi-agent swarm is rewarded for the success of the group.",
       "failureModes": { 
         "human": "The metrics used to judge whether someone is being a team player get gamed, and no one wants to pick up eggs since they can just keep pointing them out to teammates", 
         "organizational": "(as above)",
