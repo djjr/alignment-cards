@@ -16,6 +16,7 @@
     { 
       "category": "AB", 
       "name": "Military",
+      "definition": "", 
       "hopedFor": "Soliders who will obey orders at any personal cost to themselves up to and including death.",
       "rewarded": "Bailing, mutiny, killing commanding officers", 
       "pathology": "Misaligned incentives: unlike WWII, soldiers get to go home when their tour of duty is over, instead of when the war is won", 
@@ -34,6 +35,7 @@
     { 
       "category": "AB", 
       "name": "Universities",
+      "definition": "", 
       "hopedFor": "Genuine knowledge transfer from professor to student",
       "rewarded": "Getting good grades", 
       "pathology": "Extrinsically rewarding advancement (?) of a proxy metric instead of the actual thing (Goodhart's law)", 
@@ -52,6 +54,7 @@
     { 
       "category": "AB", 
       "name": "Sports",
+      "definition": "", 
       "hopedFor": "Team members would be cooperative and aim for team victories over trying to score goals themselves",
       "rewarded": "Individual performance, sports scoring statistics.", 
       "pathology": "Team members are incentivized to inflate their own statistics instead of being team players.", 
