@@ -1,4 +1,4 @@
-PERTS export const categories = [
+export const categories = [
 
   {
     "code": "AP", 
