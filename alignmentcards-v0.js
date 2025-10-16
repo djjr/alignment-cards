@@ -180,8 +180,9 @@
   }
 },
   {
-  "category": "EXAMPLE01",
+  "category": "TEST",
   "name": "Acceptable Failure",
+   "favoriteAnimal": "koala",
   "definition": "Design systems that reward responsible risk-taking and learning rather than punishing all mistakes. Alignment depends on making low-stakes failure safe and informative.",
   "human": "People grow courageous and creative when error is treated as part of learning rather than as disobedience or incompetence.",
   "organizational": "Organizations foster adaptability when they tolerate and analyze small failures instead of punishing them, encouraging initiative and innovation.",
