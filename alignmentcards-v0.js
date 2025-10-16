@@ -16,21 +16,21 @@
     "category": "AP",
     "name": "Beneficencexxx",
     "definition": "Act to promote the well-being of others.",
-    "human": "Seeking to improve others' conditions, not just avoid harm.",
-    "humanref": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
+    "people": "Seeking to improve others' conditions, not just avoid harm.",
+    "peopleref": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
     "organizational": "Pursuing mission outcomes that serve societal good.",
-    "professional": "Keeping public safety and welfare in sight even while working primarily for the client.",
+    "professionals": "Keeping public safety and welfare in sight even while working primarily for the client.",
     "machine": "Designing systems that anticipate and promote human flourishing.",
     "failureModes": {
       "human": "A person drives in a manner that causes traffic backups for others.",
       "organizational": "The classic movie plot where a rapacious billionaire threatens civilation to enrich his company.",
-      "professional": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
+      "experts": "An expert who disregards public interest, acting as if the consequences of what they help build are other people's problems.",
       "machine": "The machine consumes all the world's resources to create as many paperclips as it can."
     },
        "expand": {
       "human": "an elaboration of how this idea plays out in human intelligence alignment contexts",
       "organizational": "an elaboration of how this idea plays out in organizational intelligence alignment contexts",
-      "professional": "an elaboration of how this idea plays out in professional intelligence alignment contexts",
+      "pros": "an elaboration of how this idea plays out in professional intelligence alignment contexts",
       "machine": "an elaboration of how this idea plays out in machine intelligence alignment contexts"
     }
     },
