@@ -13,9 +13,9 @@ export const categories = [
     "description": "TBS"
   },
   {
-    "code": "TEST",
-    "name": "TEST",
-    "description": "TEST"
+    "code": "AT",
+    "name": "Alignment Traits",
+    "description": "Virtues that an agent can have that would tend to make it behave in an aligned manner"
   }
 
 ];
@@ -204,6 +204,50 @@ export const categories = [
     "organizational": "A military or company culture discourages experimentation by punishing any deviation from protocol.",
     "professional": "Doctors hide minor errors to avoid sanctions instead of reporting them to improve systemic safety.",
     "machine": "A reinforcement learner trained with heavy penalties for any wrong move becomes overly conservative and fails to explore better strategies."
+  },
+      {
+    "category": "AT",
+    "name": "Shared Transparent Reasoning",
+    "definition": "Agent explains and justifies decisions.",
+    "human": "Explaining oneself. Justifying one's decisions. Evaluating the acceptability of others' justifications.",
+    "organizational": "Decision memos; meeting minutes; explainable policy shifts.",
+    "professional": "Case notes, reasoning memos, peer consultation.",
+    "machine": "Explainable AI interfaces; exposed chain-of-thought.",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+       "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
   }
-}
+},
+    {
+    "category": "AT",
+    "name": "honesty",
+    "definition": "loremipsum",
+    "people": "loremipsum",
+    "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
+    "organizational": "loremipsum",
+    "organizationalref": "OPTIONAL",
+    "professionals": "loremipsum",
+    "professionalref": "OPTIONAL",
+    "machine": "loremipsum",
+    "machineref": "OPTIONAL",
+    "failureModes": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    },
+       "expand": {
+      "human": "loremipsum",
+      "organizational": "loremipsum",
+      "experts": "loremipsum",
+      "machine": "loremipsum"
+    }
 ]
