@@ -214,40 +214,41 @@ export const categories = [
     "professional": "Case notes, reasoning memos, peer consultation.",
     "machine": "Explainable AI interfaces; exposed chain-of-thought.",
     "failureModes": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "lorem ipsum",
+      "organizational": "lorem ipsum",
+      "experts": "lorem ipsum",
+      "machine": "lorem ipsum"
     },
        "expand": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "lorem ipsum",
+      "organizational": "lorem ipsum",
+      "experts": "lorem ipsum",
+      "machine": "lorem ipsum"
   }
 },
     {
     "category": "AT",
     "name": "honesty",
-    "definition": "loremipsum",
-    "people": "loremipsum",
-    "peopleref": "OPTIONAL URL reference https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
-    "organizational": "loremipsum",
+    "definition": "lorem ipsum",
+    "people": "lorem ipsum",
+    "peopleref": "https://scholarworks.umb.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1001&context=philosophy_faculty_pubs",
+    "organizational": "lorem ipsum",
     "organizationalref": "OPTIONAL",
-    "professionals": "loremipsum",
+    "professionals": "lorem ipsum",
     "professionalref": "OPTIONAL",
-    "machine": "loremipsum",
+    "machine": "lorem ipsum",
     "machineref": "OPTIONAL",
     "failureModes": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "lorem ipsum",
+      "organizational": "lorem ipsum",
+      "experts": "lorem ipsum",
+      "machine": "lorem ipsum"
     },
        "expand": {
-      "human": "loremipsum",
-      "organizational": "loremipsum",
-      "experts": "loremipsum",
-      "machine": "loremipsum"
+      "human": "lorem ipsum",
+      "organizational": "lorem ipsum",
+      "experts": "lorem ipsum",
+      "machine": "lorem ipsum"
     }
+  }
 ]
