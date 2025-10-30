@@ -204,6 +204,7 @@ export const categories = [
     "organizational": "A military or company culture discourages experimentation by punishing any deviation from protocol.",
     "professional": "Doctors hide minor errors to avoid sanctions instead of reporting them to improve systemic safety.",
     "machine": "A reinforcement learner trained with heavy penalties for any wrong move becomes overly conservative and fails to explore better strategies."
+  }
   },
       {
     "category": "AT",
